@@ -12,5 +12,8 @@ https://github.com/tseykomichail/diploma_mag/blob/main/%D0%A0%D0%B0%D0%B7%D0%B4%
 Распределение пациентов по выборкам
 https://github.com/tseykomichail/diploma_mag/blob/main/patients_split.txt
 
-Табличная выборка для классификации
+Табличная выборка для классификации:
 https://github.com/tseykomichail/diploma_mag/blob/main/nodules.xlsx
+
+Точные диагнозы для некоторых пациентов:
+https://github.com/tseykomichail/diploma_mag/blob/main/tcia-diagnosis-data-2012-04-20.xls
