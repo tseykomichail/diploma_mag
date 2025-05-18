@@ -17,3 +17,14 @@ https://github.com/tseykomichail/diploma_mag/blob/main/nodules.xlsx
 
 Точные диагнозы для некоторых пациентов:
 https://github.com/tseykomichail/diploma_mag/blob/main/tcia-diagnosis-data-2012-04-20.xls
+
+
+
+
+
+
+
+
+
+Ссылка на обученную модель:
+https://drive.google.com/file/d/1ZXkdegqEllcTpkGZRWRuhd4e9wC7WSDh/view?usp=sharing
