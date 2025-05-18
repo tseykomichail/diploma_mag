@@ -22,7 +22,8 @@ https://github.com/tseykomichail/diploma_mag/blob/main/nodules.xlsx
 Точные диагнозы для некоторых пациентов:
 https://github.com/tseykomichail/diploma_mag/blob/main/tcia-diagnosis-data-2012-04-20.xls
 
-
+Приведение изображений к одному физическому размеру для HOG:
+https://github.com/tseykomichail/diploma_mag/blob/main/interpolation.ipynb
 
 
 
