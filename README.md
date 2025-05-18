@@ -27,4 +27,4 @@ https://github.com/tseykomichail/diploma_mag/blob/main/tcia-diagnosis-data-2012-
 
 
 Ссылка на обученную модель:
-https://drive.google.com/file/d/1ZXkdegqEllcTpkGZRWRuhd4e9wC7WSDh/view?usp=sharing
+https://drive.google.com/file/d/14LI0KHq2zxgaKsEbSEDkd-IidfVa6Qj4/view?usp=sharing
