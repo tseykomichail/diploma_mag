@@ -28,7 +28,8 @@ https://github.com/tseykomichail/diploma_mag/blob/main/interpolation.ipynb
 Попытка детекции с помощью HOG:
 https://github.com/tseykomichail/diploma_mag/blob/main/lidcidri_HOG.ipynb
 
-
+Обуение YOLO :
+https://drive.google.com/file/d/17qksZoHAZlbCbFG-rmnQgYpRStuLSaS0/view?usp=sharing
 
 
 
