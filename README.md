@@ -25,6 +25,8 @@ https://github.com/tseykomichail/diploma_mag/blob/main/tcia-diagnosis-data-2012-
 Приведение изображений к одному физическому размеру для HOG:
 https://github.com/tseykomichail/diploma_mag/blob/main/interpolation.ipynb
 
+Попытка детекции с помощью HOG:
+https://github.com/tseykomichail/diploma_mag/blob/main/lidcidri_HOG.ipynb
 
 
 
