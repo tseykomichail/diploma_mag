@@ -28,13 +28,14 @@ https://github.com/tseykomichail/diploma_mag/blob/main/interpolation.ipynb
 Попытка детекции с помощью HOG:
 https://github.com/tseykomichail/diploma_mag/blob/main/lidcidri_HOG.ipynb
 
-Обуение YOLO :
+Обучение YOLO :
 https://drive.google.com/file/d/17qksZoHAZlbCbFG-rmnQgYpRStuLSaS0/view?usp=sharing
 
 Обучение nnunet :
 https://github.com/tseykomichail/diploma_mag/blob/main/nnunet.ipynb
 
-
+Обучение Faster R-CNN :
+https://github.com/tseykomichail/diploma_mag/blob/main/faster%20r%20cnn.ipynb
 
 
 Ссылка на код приложения :
