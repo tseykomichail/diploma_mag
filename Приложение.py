@@ -13,7 +13,7 @@ def process_dicom(file):
     rescale_intercept=dicom_file.RescaleIntercept
     image = dicom_file.pixel_array.astype(np.float32)
     image=image*rescale_slope+rescale_intercept
-    if image.shape[0]!=512 and image.shape[1]!=512 :
+    if image.shape[0]!=512 or image.shape[1]!=512 :
         image = cv2.resize(image, (512, 512))  
     image = np.clip(image, -1000, 500)
     image = (image +1000) / 1500     
